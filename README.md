@@ -14,18 +14,18 @@ Con este proyecto se pretende que el alumnado cumpla con los siguientes objetivo
 /proyecto/                                                                
 ├── profesorado/                                                            
 │   ├── guía_didactica.pdf  
-│   ├── Programación_Didáctica.pdf
+│   ├── Programación_Didáctica.pdf  
 │   ├── planificación_temporal.xlsx  
 │   ├── Recursos/  
 │   ├── Metodologías.pdf  
 │   └── Criterios_de_calificación_y_rúbrica.pdf  
 ├── alumnado/  
 │   ├── dosier.pdf  
-│   ├── Herramientas/
+│   ├── Herramientas/  
 │   ├── Tutoriales/  
 │   ├── Ejemplos/  
 │   └── Actividades/  
-│       └── Casos de uso y Entidad Relación/
-│       └── Modelo Relacional/
-│       └── SQL/
+│       └── Casos de uso y Entidad Relación/  
+│       └── Modelo Relacional/  
+│       └── SQL/  
 └── README.md  
