@@ -25,7 +25,7 @@ Con este proyecto se pretende que el alumnado cumpla con los siguientes objetivo
 │   ├── Tutoriales/  
 │   ├── Ejemplos/  
 │   └── Actividades/  
-│         └── Casos de uso y Entidad Relación/  
-│         └── Modelo Relacional/  
-│         └── SQL/  
+│    |     └── Casos de uso y Entidad Relación/  
+│    |     └── Modelo Relacional/  
+│    |     └── SQL/  
 └── README.md  
