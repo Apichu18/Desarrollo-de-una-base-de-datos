@@ -16,12 +16,13 @@ Con este proyecto se pretende que el alumnado cumpla con los siguientes objetivo
 │   ├── guía_didactica.pdf  
 │   ├── Programación_Didáctica.pdf
 │   ├── planificación_temporal.xlsx  
-│   ├── recursos/  
+│   ├── Recursos/  
 │   ├── Metodologías.pdf  
 │   └── Criterios_de_calificación_y_rúbrica.pdf  
 ├── alumnado/  
 │   ├── dosier.pdf  
-│   ├── tutoriales/  
-│   ├── ejemplos/  
-│   └── herramientas/  
+│   ├── Actividades/
+│   ├── Tutoriales/  
+│   ├── Ejemplos/  
+│   └── Herramientas/  
 └── README.md  
