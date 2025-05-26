@@ -1,1 +1,4 @@
-
+Listado de herramientas:
+Draw.io -> Edición de diagramas Entidad Relación
+Word -> Herramienta de edición de texto para modelo relacional y desarrollo del proyecto
+OracleSQLDeveloper -> Entorno de desarrollo y gestor de base de datos para el desarrollo del proyecto y las actividades
