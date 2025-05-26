@@ -21,8 +21,11 @@ Con este proyecto se pretende que el alumnado cumpla con los siguientes objetivo
 │   └── Criterios_de_calificación_y_rúbrica.pdf  
 ├── alumnado/  
 │   ├── dosier.pdf  
-│   ├── Actividades/
+│   ├── Herramientas/
 │   ├── Tutoriales/  
 │   ├── Ejemplos/  
-│   └── Herramientas/  
+│   └── Actividades/  
+│       └── Casos de uso y Entidad Relación/
+│       └── Modelo Relacional/
+│       └── SQL/
 └── README.md  
