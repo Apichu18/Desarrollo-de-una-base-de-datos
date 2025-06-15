@@ -1,5 +1,5 @@
 # Desarrollo-de-una-base-de-datos
-Este proyecto tiene como objetivo abordar tanto la planificación como la implementación técnica del diseño y desarrollo de una base de datos, se pretende aplicar de forma práctica los conocimientos adquiridos en el módulo de Bases de Datos del Ciclo formativo de grado superior de Desarrollo de Aplicaciones Web, asentando las bases y utilizando el entorno de desarrollo OracleSQL developer para poder representar, construir y validar la estructura de la base de datos, así mismo, se ahondará en la importancia de mantener la integridad y la cohesión de los datos, las relaciones entre entidades y la definición de claves y restricciones.
+Este proyecto busca acercar al alumnado a necesidades reales del entorno social y económico, proponiendo como eje temático el diseño de bases de datos que respondan a los desafíos de gestión y digitalización de pequeños negocios del barrio, abordando tanto la planificación como la implementación técnica del diseño y desarrollo de una base de datos, se pretende aplicar de forma práctica los conocimientos adquiridos en el módulo de Bases de Datos del Ciclo formativo de grado superior de Desarrollo de Aplicaciones Web, asentando las bases y utilizando el entorno de desarrollo OracleSQL developer para poder representar, construir y validar la estructura de la base de datos, así mismo, se ahondará en la importancia de mantener la integridad y la cohesión de los datos, las relaciones entre entidades y la definición de claves y restricciones. 
 
 ## Objetivos del proyecto
 Con este proyecto se pretende que el alumnado cumpla con los siguientes objetivos:                                                                    
@@ -8,6 +8,7 @@ Con este proyecto se pretende que el alumnado cumpla con los siguientes objetivo
 •	Diseñar modelos entidad/relación y convertirlos en modelos relacionales normalizados, aplicando correctamente las reglas de normalización.                                
 •	Identificar y definir correctamente las claves primarias, foráneas y restricciones necesarias para garantizar la integridad referencial.                                  
 •	Desarrollar la capacidad de documentar y justificar las decisiones técnicas tomadas durante el diseño e implementación de una base de datos.
+•	Remarcar la importancia de la modernización y digitalización de los pequeños comercios.
 
 
 ## Estructura del repositorio
